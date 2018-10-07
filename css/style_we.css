@@ -1,0 +1,126 @@
+body {
+	margin:0;
+	
+}
+
+/*стили для header*/
+
+
+header {
+	width:96%;
+	background-color:#FF0A0A;
+	padding:2%;
+	float:left;
+	border-radius:30px;
+	margin-bottom:3px;
+}
+
+header a {
+	color:#FFFF00;
+	font-size:40px;
+	text-decoration:none;
+	
+	
+}
+
+header a:hover {
+	color:#1E5900;
+	font-size:40px;
+
+}
+
+header #home {
+	width:24%;
+	float:left;
+	
+}
+
+header #articles {
+	width:24%;
+	float:left;
+	
+}
+
+header #services {
+	width:24%;
+	float:left;
+	text-align:center;
+}
+
+header #we {
+	width:24%;
+	text-align:right;
+	float:left;
+}
+
+/*стили для content*/
+
+content #base {
+	font-size:35px;
+	float:left;
+	width:66%;
+	background-color:#DEDEAC;
+	border:1px solid black;
+	padding:1px;
+	opacity:0.9;
+	margin:2%;
+	border-radius:20px
+}
+
+content #left {
+	float:left;
+	margin:2%;
+	border:1px solid black;
+	text-align:center;
+	padding:1%;
+	border-radius:10px;
+	width:20%;
+}
+
+/*стили для footer*/
+
+footer {
+	background-color:#980000;
+	width:98%;
+	padding:1%;
+	border-top:2px solid black;
+	float:left;
+	margin-top:3px;
+	color:#DADA09;
+	text-decoration:none;
+	width:98%;
+	
+}
+
+footer #social {
+	float:left;
+	padding:3px;
+	width:45%;
+	font-size:20px;
+	height:500px;
+}
+
+	
+
+footer #rights {
+	color:#FFFFFF;
+	float:right;
+	margin-top:40px;
+	
+}
+
+footer h3 {
+	margin:0;
+	font-size:20px
+}
+
+footer p {
+	margin-battom:0;
+}
+
+footer input {
+	margin-top:0;
+}
+
+
+
